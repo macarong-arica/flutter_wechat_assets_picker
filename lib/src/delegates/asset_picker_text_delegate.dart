@@ -1038,7 +1038,7 @@ class TurkishAssetPickerTextDelegate extends AssetPickerTextDelegate {
 class KoreanAssetPickerTextDelegate extends AssetPickerTextDelegate {
 const KoreanAssetPickerTextDelegate();
 
-@overrideoverride
+@override
 String get languageCode => 'ko';
 
 @override

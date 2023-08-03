@@ -1127,3 +1127,4 @@ String get sNameDurationLabel => '기간';
 
 @override
 String get sUnitAssetCountLabel => '개';
+}
